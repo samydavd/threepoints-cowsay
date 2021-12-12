@@ -1,0 +1,24 @@
+{
+  "name": "threepoints-cowsay",
+  "version": "1.0.0",
+  "description": "Actividad #1",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samydavd/threepoints-cowsay.git"
+  },
+  "author": "Samy El Aridi Luzardo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samydavd/threepoints-cowsay/issues"
+  },
+  "homepage": "https://github.com/samydavd/threepoints-cowsay#readme",
+  "dependencies": {
+    "cowsay": "^1.5.0",
+    "express": "^4.17.1"
+  }
+}
